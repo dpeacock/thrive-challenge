@@ -1,0 +1,25 @@
+GEM
+  specs:
+    addressable (2.8.5)
+      public_suffix (>= 2.0.2, < 6.0)
+    debug (1.7.1)
+      irb (>= 1.5.0)
+      reline (>= 0.3.1)
+    io-console (0.6.0)
+    irb (1.6.2)
+      reline (>= 0.3.0)
+    json-schema (4.1.1)
+      addressable (>= 2.8)
+    public_suffix (5.0.3)
+    reline (0.3.2)
+      io-console (~> 0.5)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  debug
+  json-schema
+
+BUNDLED WITH
+   2.4.10
